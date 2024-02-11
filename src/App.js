@@ -2,7 +2,7 @@ import './App.css';
 
 function App() {
   return (
-    <h1>Hello, World!</h1>
+    <h1>Hello, World This is the starting of MyNoteBook App!</h1>
    
   );
 }
